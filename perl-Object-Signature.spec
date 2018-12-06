@@ -68,8 +68,8 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.28.0/Object/Signature.pm
-/usr/lib/perl5/vendor_perl/5.28.0/Object/Signature/File.pm
+/usr/lib/perl5/vendor_perl/5.28.1Object/Signature.pm
+/usr/lib/perl5/vendor_perl/5.28.1Object/Signature/File.pm
 
 %files dev
 %defattr(-,root,root,-)
