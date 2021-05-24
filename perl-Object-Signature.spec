@@ -4,7 +4,7 @@
 #
 Name     : perl-Object-Signature
 Version  : 1.08
-Release  : 16
+Release  : 17
 URL      : https://cpan.metacpan.org/authors/id/E/ET/ETHER/Object-Signature-1.08.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/E/ET/ETHER/Object-Signature-1.08.tar.gz
 Source1  : http://http.debian.net/debian/pool/main/libo/libobject-signature-perl/libobject-signature-perl_1.07-2.debian.tar.xz
@@ -103,5 +103,5 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files perl
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.32.1/Object/Signature.pm
-/usr/lib/perl5/vendor_perl/5.32.1/Object/Signature/File.pm
+/usr/lib/perl5/vendor_perl/5.34.0/Object/Signature.pm
+/usr/lib/perl5/vendor_perl/5.34.0/Object/Signature/File.pm
