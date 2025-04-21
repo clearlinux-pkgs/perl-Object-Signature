@@ -7,7 +7,7 @@
 #
 Name     : perl-Object-Signature
 Version  : 1.08
-Release  : 26
+Release  : 27
 URL      : https://cpan.metacpan.org/authors/id/E/ET/ETHER/Object-Signature-1.08.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/E/ET/ETHER/Object-Signature-1.08.tar.gz
 Source1  : http://http.debian.net/debian/pool/main/libo/libobject-signature-perl/libobject-signature-perl_1.07-2.debian.tar.xz
